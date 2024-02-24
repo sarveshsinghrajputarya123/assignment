@@ -1,0 +1,6 @@
+com\crud\crudopperation\model\Student.class
+com\crud\crudopperation\controller\UserController.class
+com\crud\crudopperation\repository\Studentrepo.class
+com\crud\crudopperation\serviceImp\Studentserviceimp.class
+com\crud\crudopperation\CrudopperationApplication.class
+com\crud\crudopperation\service\Studentservice.class
